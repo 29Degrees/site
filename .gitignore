@@ -1,1 +1,7 @@
 .DS_Store
+.amplifyrc
+
+amplify
+node_modules
+dist
+aws-exports.js
